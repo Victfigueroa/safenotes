@@ -1,3 +1,9 @@
+### Seguridad Integrada con DevSecOps
+
+**Grupo 5**  
+- Juan Villaman  
+- Cristóbal Erazo  
+- Victor Figueroa  
 
 ###¿Qué aprendiste sobre la diferencia entre SAST, DAST y SCA?
 Aprendimos que SAST analiza el código fuente, DAST prueba la app en ejecución y SCA revisa las dependencias. Cada uno detecta riesgos distintos.
