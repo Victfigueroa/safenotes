@@ -48,7 +48,8 @@ Beneficios:
 ### Analisis ejecutado de ZAP
 ![Captura de pantalla 2025-06-16 220132](https://github.com/user-attachments/assets/86752f42-52fe-467b-83ac-977628318061)
 ### Resultados del reporte generado en ZAP
-** -no se detectaron posibles ataques XSS pero tal como se muestra en la siguiente imagen se presenta un posible peligro en caso de ataque (vulnerabilidad).
+-no se detectaron posibles ataques XSS pero tal como se muestra en la siguiente imagen se presenta un posible peligro en caso de ataque (vulnerabilidad).
+
 ![Captura de pantalla 2025-06-16 220143](https://github.com/user-attachments/assets/63483c78-e3a8-4481-b6be-d8ea3c0bff37)
 ### Resumen de hallazgos de seguridad y solucion sugerida
 ![Captura de pantalla 2025-06-16 222431](https://github.com/user-attachments/assets/c0a40b55-cc31-439a-af6d-9507f9ee464b)
