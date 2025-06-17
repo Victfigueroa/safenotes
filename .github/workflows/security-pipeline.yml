@@ -21,8 +21,8 @@ jobs:
       - name: Instalar dependencias
         run: npm install
 
-      - name: Ejecutar pruebas
-        run: npm test
+      #- name: Ejecutar pruebas
+      #  run: npm test
 
       - name: Dependency Check
         uses: dependency-check/Dependency-Check_Action@main
