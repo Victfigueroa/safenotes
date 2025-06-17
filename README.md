@@ -5,16 +5,16 @@
 - Cristóbal Erazo  
 - Victor Figueroa  
 
-###¿Qué aprendiste sobre la diferencia entre SAST, DAST y SCA?
+### ¿Qué aprendiste sobre la diferencia entre SAST, DAST y SCA?
 Aprendimos que SAST analiza el código fuente, DAST prueba la app en ejecución y SCA revisa las dependencias. Cada uno detecta riesgos distintos.
 
-###¿Qué herramientas fueron más fáciles de implementar?
+### ¿Qué herramientas fueron más fáciles de implementar?
 Trivy y Dependency-Check fueron más simples de integrar en GitHub Actions. Su configuración es directa y ofrecen reportes rápidos sin requerir muchos ajustes técnicos.
 
-###¿Cómo DevSecOps mejora la seguridad sin frenar el desarrollo?
+### ¿Cómo DevSecOps mejora la seguridad sin frenar el desarrollo?
 DevSecOps integra seguridad desde el inicio. Automatiza escaneos y pruebas, detectando vulnerabilidades tempranas sin interrumpir el flujo continuo de desarrollo ni ralentizar entregas.
 
-###¿Qué parte del proceso automatizarías completamente en una empresa?
+### ¿Qué parte del proceso automatizarías completamente en una empresa?
 Automatizaría los escaneos de seguridad en cada push. Esto garantiza que el código que llega a producción fue analizado sin depender de revisiones manuales.
 
 
