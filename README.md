@@ -43,9 +43,13 @@ Beneficios:
 - Automatización continua, sin frenar el desarrollo.
 - Menor riesgo en producción, gracias a pruebas preventivas.
 
-
+### Inicio de Local Host de pagina SafeNote apuntando al puerto 3000
 ![Captura de pantalla 2025-06-16 213542](https://github.com/user-attachments/assets/3c7f5443-e92b-4150-a6f0-f142a531d97f)
+### Analisis ejecutado de ZAP
 ![Captura de pantalla 2025-06-16 220132](https://github.com/user-attachments/assets/86752f42-52fe-467b-83ac-977628318061)
+### Resultados del reporte generado en ZAP
 ![Captura de pantalla 2025-06-16 220143](https://github.com/user-attachments/assets/63483c78-e3a8-4481-b6be-d8ea3c0bff37)
-
+### Resumen de hallazgos de seguridad y solucion sugerida
+![Captura de pantalla 2025-06-16 222431](https://github.com/user-attachments/assets/c0a40b55-cc31-439a-af6d-9507f9ee464b)
+![Captura de pantalla 2025-06-16 222442](https://github.com/user-attachments/assets/9c31a5eb-0ff8-456a-8e6a-1b8c222c77e7)
 
