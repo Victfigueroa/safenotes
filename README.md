@@ -18,6 +18,30 @@ DevSecOps integra seguridad desde el inicio. Automatiza escaneos y pruebas, dete
 Automatizaría los escaneos de seguridad en cada push. Esto garantiza que el código que llega a producción fue analizado sin depender de revisiones manuales.
 
 
+### Presentación explicando cómo aplicarían DevSecOps en un proyecto real
+
+Presentación: Cómo aplicaríamos DevSecOps en un proyecto real
+Título: Integrando DevSecOps en el ciclo de vida de SafeNotes
+
+1. Fase de Desarrollo
+- Configurar eslint para análisis estático (SAST) desde el inicio.
+- Instalar dependencias seguras y verificar con npm audit y OWASP Dependency-Check (SCA).
+
+2. Fase de Integración
+- Automatizar npm install, npm test, y escaneos con Trivy en GitHub Actions.
+- Configurar GitHub Actions para ejecutar SCA, SAST y pruebas en cada push.
+
+3. Fase de Entorno
+- Ejecutar OWASP ZAP (DAST) antes de liberar a producción, explorando rutas críticas como login, registro y dashboard.
+
+4. Fase de Producción
+- Usar alertas automatizadas ante nuevas vulnerabilidades de dependencias (Dependabot).
+- Incorporar monitoreo de seguridad (WAF, logs, alertas).
+
+Beneficios:
+- Seguridad integrada desde el primer commit.
+- Automatización continua, sin frenar el desarrollo.
+- Menor riesgo en producción, gracias a pruebas preventivas.
 
 
 ![Captura de pantalla 2025-06-16 213542](https://github.com/user-attachments/assets/3c7f5443-e92b-4150-a6f0-f142a531d97f)
